@@ -1,0 +1,14 @@
+D:\MyDocuments\ITIL\ITIL\bin\Release\ITIL.exe.config
+D:\MyDocuments\ITIL\ITIL\obj\Release\Interop.Office.dll
+D:\MyDocuments\ITIL\ITIL\obj\Release\Interop.S4.dll
+D:\MyDocuments\ITIL\ITIL\obj\Release\ITIL.csproj.ResolveComReference.cache
+D:\MyDocuments\ITIL\ITIL\bin\Release\ITIL.exe
+D:\MyDocuments\ITIL\ITIL\bin\Release\ITIL.pdb
+D:\MyDocuments\ITIL\ITIL\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+D:\MyDocuments\ITIL\ITIL\obj\Release\ITIL.csprojResolveAssemblyReference.cache
+D:\MyDocuments\ITIL\ITIL\obj\Release\ITIL.Form1.resources
+D:\MyDocuments\ITIL\ITIL\obj\Release\ITIL.FormCon.resources
+D:\MyDocuments\ITIL\ITIL\obj\Release\ITIL.Properties.Resources.resources
+D:\MyDocuments\ITIL\ITIL\obj\Release\ITIL.csproj.GenerateResource.Cache
+D:\MyDocuments\ITIL\ITIL\obj\Release\ITIL.exe
+D:\MyDocuments\ITIL\ITIL\obj\Release\ITIL.pdb
